@@ -1,4 +1,4 @@
-# Online Yoklama
+# Online Yoklama (Online Attandance)
 
 This project is aimed to read online attendance by using QR code.
 
