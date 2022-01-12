@@ -80,7 +80,7 @@ This project is aimed to read online attendance by using QR code.
 ## Usage
  - Clone the repository with terminal.
    ```
-   git clone https://github.com/emrearik/bammy_mobil.git
+   git clone https://github.com/emrearik/online_yoklama.git
    ```
    
  - Go to terminal and run flutter.
