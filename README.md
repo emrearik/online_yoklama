@@ -10,6 +10,9 @@ This project is aimed to read online attendance by using QR code.
 
 ## ARDUINO
 
+## Connection Scheme
+   ![Connection](https://i.imgur.com/7PuYo1r.jpeg "Connection")
+
 ## Using
 - ESP32QRCodeReader library (https://github.com/alvarowolfx/ESP32QRCodeReader)
 - Firebase_ESP_Client library (https://github.com/mobizt/Firebase-ESP-Client)
