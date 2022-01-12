@@ -25,14 +25,23 @@ This project is aimed to read online attendance by using QR code.
    ```
  - Create new Firebase project.
  - Go to Authentication - Sign in method - Email and password - Enable
+ 
  ![Authentication](https://github.com/mobizt/Firebase-ESP32/raw/master/media/images/Enable_Email_Password_Provider.png "Authentication")
+ 
  ![Authentication2](https://github.com/mobizt/Firebase-ESP32/raw/master/media/images/Enable_Email_Password_Provider2.png "Authentication2")
+ 
  - Add Email and Password for first user in your project. Example: test@test.com - 123456
+ 
   ![Email](https://github.com/mobizt/Firebase-ESP32/raw/master/media/images/Enable_Email_Password_Provider3.png "Email")
+  
  - To get API key user E-mail and Password sign in.
+ 
    ![API](https://github.com/mobizt/Firebase-ESP32/raw/master/media/images/API_Key.png "API")
+   
  - Go to Project Setting - Service accounts - Firebase Admin SDK - Generate new private key
+ 
    ![ServiceAccount](https://github.com/mobizt/Firebase-ESP32/raw/master/media/images/Service_Account_Key.png "ServiceAccount")
+   
  - Create Cloud Firestore.
  - Create Realtime Database (for timestamp)
  - Go to arduino/src/main.cpp
