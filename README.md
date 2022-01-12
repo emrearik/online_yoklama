@@ -16,6 +16,7 @@ This project is aimed to read online attendance by using QR code.
 ## Using
 - ESP32QRCodeReader library (https://github.com/alvarowolfx/ESP32QRCodeReader)
 - Firebase_ESP_Client library (https://github.com/mobizt/Firebase-ESP-Client)
+- PlatformIO
 
 ## Usage
  - Clone the repository with terminal.
