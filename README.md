@@ -1,4 +1,4 @@
-# Bammy Mobile App
+# Online Yoklama
 
 This project is aimed to read online attendance by using QR code.
 
