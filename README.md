@@ -77,6 +77,6 @@ This project is aimed to read online attendance by using QR code.
    
 
 ## Design
-
+![Design](https://i.imgur.com/7gWkrng.jpeg "Design")
 
 
