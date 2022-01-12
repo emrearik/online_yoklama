@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1081948498688-0o86kj7icl8toak7p9gqvgv4u6g21pat.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://onlineyoklama-b1b86-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1081948498688</string>
+    <string name="google_api_key" translatable="false">AIzaSyAM1TeNIxwU1_XB9boSD4Tko-33A6iCrZg</string>
+    <string name="google_app_id" translatable="false">1:1081948498688:android:2a02e2821f1ad5e32621e5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAM1TeNIxwU1_XB9boSD4Tko-33A6iCrZg</string>
+    <string name="google_storage_bucket" translatable="false">onlineyoklama-b1b86.appspot.com</string>
+    <string name="project_id" translatable="false">onlineyoklama-b1b86</string>
+</resources>
